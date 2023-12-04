@@ -1,0 +1,23 @@
+[33mcommit 051b54c3077021109649edc9e26fa940ab71d4dc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Mushfig Aliyarov <mushfigaliyarov@gmail.com>
+Date:   Mon Dec 4 21:08:18 2023 +0400
+
+    first commit
+
+[33mcommit c85706b02453e6733b21fa15cf448ed35d2642a9[m
+Author: allegro <mushfigaliyarov@gmail.com>
+Date:   Mon Dec 4 20:48:08 2023 +0400
+
+    first commit
+
+[33mcommit 988b508cd533bd79d38c37523c35434c39be1baf[m
+Author: allegro <mushfigaliyarov@gmail.com>
+Date:   Mon Dec 4 20:36:19 2023 +0400
+
+    initial commit
+
+[33mcommit 408e3c3674b038b64e8e46a9f093ec242cf4414d[m
+Author: allegro <mushfigaliyarov@gmail.com>
+Date:   Sun Dec 3 13:09:36 2023 +0400
+
+    Initialize project using Create React App
